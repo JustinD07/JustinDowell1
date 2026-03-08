@@ -1,4 +1,4 @@
-# Justin Dowell | Cybersecurity & IT Portfolio
+# Justin Dowell | IT Portfolio
 
  Hi my name is Justin Dowell. I am an Information Technology major with a minor in Computer Information Assurance at Frostburg State University. I am currently studying methods to help prevent phishing email attacks and gaining hands-on experience in cybersecurity analysis.
 
